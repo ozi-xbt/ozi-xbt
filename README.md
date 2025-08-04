@@ -3,7 +3,7 @@
 
 ![anime](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3piMzBxdWV6dWVjYWJ3Y2d6aXpic2ZhcW5maG1yZjMwNHVhazVtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKOpV6xnFXg2I/giphy.gif)
 
-##Sosial **media** saya
+## Sosial **media** saya
 
 ![https://t.me/ozi_xbt](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <!--
