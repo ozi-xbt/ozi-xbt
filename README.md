@@ -1,5 +1,5 @@
 ## Hallo, nama ku **ozi**
-- 🌱 saya masih belajar tentang *pemrograman*
+# saya masih belajar tentang *pemrograman* wkwk
 
 ![anime](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3piMzBxdWV6dWVjYWJ3Y2d6aXpic2ZhcW5maG1yZjMwNHVhazVtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKOpV6xnFXg2I/giphy.gif)
 
