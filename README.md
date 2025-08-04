@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ozi-xbt.ozi-xbt&"  />
+</div>
+
+###
+
 <h1 align="center">Hallo semuanya, selamat datang di github ozi🤗</h1>
 
 ###
@@ -6,16 +12,16 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
 <h2 align="left">💻 Sedang belajar dan eksplorasi</h2>
 
 ###
 
 <p align="left">- Web development dasar (HTML, CSS, JS)<br>- Cara kerja API dan sistem website<br>- UI/UX sederhana untuk tampilan menarik<br>- Dunia crypto, blockchain, dan project Web3</p>
+
+###
+
+<div align="left">
+</div>
 
 ###
 
@@ -32,14 +38,17 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/@ozi_xbt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="35" alt="telegram logo"  />
-  </a>
   <a href="https://instagram.com/ozi.xbt" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="35" alt="instagram logo"  />
   </a>
   <a href="https://facebook.com/@ozi.xbt/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://twitter.com/ozi_XBT" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/@ozi_xbt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="35" alt="telegram logo"  />
   </a>
 </div>
 
@@ -50,11 +59,11 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
